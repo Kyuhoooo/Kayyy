@@ -1,0 +1,30 @@
+{
+  "greeting": "Xin chào thiên thần",
+  "name": "Minh Hân",
+  "greetingText": "Rất vui vì được gặp và quen biết em 😙",
+  "wishText": "Chúc em mãi luôn xinh đẹp, rạng ngời như ánh nắng ban mai. Mỗi năm đều hạnh phúc, yêu đời và được yêu thương nhiều hơn nữa. ❤️",
+  "imagePath": "img/minhhan_2.jpg",
+  "text1": "Hôm nay là một ngày đặc biệt – sinh nhật của em!",
+  "textInChatBox": "Mong là em sẽ có một ngày mới và tận hưởng mọi điều tích cực 🥳.",
+  "sendButtonLabel": "Gửi lời chúc 💌",
+  "text2": "Anh có một chút đồ handmade cho em =))))",
+  "text3": "Chúc em mãi luôn xinh đẹp, rạng ngời như ánh nắng ban mai. ☀️",
+  "text4": "Mỗi năm đều hạnh phúc, yêu đời 🤭",
+  "text4Adjective": "và được yêu thương nhiều hơn nữa. ❤️",
+  "text5Entry": "Mong là em...",
+  "text5Content": "Luôn giữ năng lượng tích cực và toả sáng đến mọi người 🥰",
+  "smiley": ":)",
+  "bigTextPart1": "Những vẫn phải nhớ healing cho bản thân nữa nhé 😌",
+  "bigTextPart2": "... ",
+  "wishHeading": "Chúc mừng sinh nhật, Panda 🎂💖🐼",
+  "outroText": "Hy vọng món quà nhỏ này khiến em mỉm cười thật hạnh phúc!",
+  "replayText": "Nếu em muốn xem lại cảm xúc ban đầu... nhấn vào đây nhé 💫",
+  "outroSmiley": ":)",
+  "music": "./music/tamtrilangthang.mp3",
+  "fonts": [
+    {
+      "name": "Be Vietnam Pro",
+      "path": "https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600&display=swap"
+    }
+  ]
+}
